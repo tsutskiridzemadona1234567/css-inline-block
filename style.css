@@ -1,0 +1,36 @@
+#box1{
+  width: 100px ;
+  height: 150px ;
+  display: inline-block;
+  background-color: #FF0000;
+}
+#box2{
+  width: 100px ;
+  height: 150px ;
+  display: inline-block;
+  background-color: #FAFF00;
+}
+#box3{
+  width: 100px ;
+  height: 150px ;
+  display: inline-block;
+  background-color: #05FF00;
+}
+#box4{
+  width: 100px ;
+  height: 150px ;
+  display: inline-block;
+  background-color: #0500FF;
+}
+#box5{
+  width: 100px ;
+  height: 150px ;
+  display: inline-block;
+  background-color: #FA00FF;
+}
+#box6{
+  width: 100px ;
+  height: 150px ;
+  display: inline-block;
+  background-color:#00FFF0 ;
+}
